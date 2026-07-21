@@ -288,4 +288,4 @@ Enviar
 </footer>
 
 <a class="whatsapp" href="#">
-https://api.whatsapp.com/message/VW6R5WF7PRTRL1?autoload=1&app_absent=0
+api.whatsapp.com/message/VW6R5WF7PRTRL1?autoload=1&app_absent=0
